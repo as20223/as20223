@@ -4,8 +4,6 @@
 
 Data Science & Mathematics @ NYU 
 
-[![Email](https://img.shields.io/badge/Email-as20223%40nyu.edu-0a66c2?style=flat-square&logo=gmail&logoColor=white)](mailto:as20223@nyu.edu)
-
 
 </div>
 
