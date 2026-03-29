@@ -24,7 +24,7 @@ Skills
 
 Featured Project
 
-Music Genre Classification — 50,000 Spotify songs · 10 genres · **AUC: 0.9022**
+Music Genre Classification: 50,000 Spotify songs · 10 genres · **AUC: 0.9022**
 Full ML pipeline: imputation → PCA → K-Means → Gradient Boosting
 
 
