@@ -2,7 +2,7 @@
 
 # Ann-Mei Sun
 
-Data Science & Mathematics @ NYU 
+Computer and Data Science @ NYU 
 
 
 </div>
