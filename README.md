@@ -9,7 +9,7 @@ Computer and Data Science @ NYU
 
 ---
 
-I'm a data science student at NYU passionate about ML, product thinking, and research. I'm interested in how psychology, neuroscience, and data can inform products that meaningfully improve human behavior and health. Long term, I hope to found a company focused on building thoughtful, human-centered technology.
+I'm a computer and data science student at NYU passionate about ML, product thinking, and research. I'm interested in how psychology, neuroscience, and data can inform products that meaningfully improve human behavior and health. Long term, I hope to found a company focused on building thoughtful, human-centered technology.
 
 ---
 
